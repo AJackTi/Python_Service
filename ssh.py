@@ -30,3 +30,6 @@ def operation():
 
 if __name__ == "__main__":
     operation()
+
+# AJack Ti
+# 25/06/2018
